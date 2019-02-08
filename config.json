@@ -1,0 +1,20 @@
+{
+    "server": {
+        "port": 3000,
+        "externalTileUrl": "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    },
+    "locations": "./locations.json",
+    "mapid": "map",
+    "zoom": 14,
+    "compassAngle": 135,
+    "activeStyle": {
+        "color": "#ff3300",
+        "weight": 7,
+        "opacity": 0.85
+    },
+    "inactiveStyle": {
+        "color": "#999",
+        "weight": 5,
+        "opacity": 0.65
+    }
+}

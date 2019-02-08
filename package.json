@@ -1,0 +1,28 @@
+{
+  "name": "dw-distance-game",
+  "version": "1.0.0",
+  "description": "Game for guessing locations by distances and directions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasdware/dw-distance-game.git"
+  },
+  "keywords": [
+    "game",
+    "guessing",
+    "locations"
+  ],
+  "author": "dasdware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasdware/dw-distance-game/issues"
+  },
+  "homepage": "https://github.com/dasdware/dw-distance-game#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "geolib": "^2.0.24"
+  }
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "New York City Center",
+        "base": true,
+        "city": "New York",
+        "latitude":	40.742836,
+        "longitude": -73.988976
+    },
+    {
+        "name": "Statue of Liberty",
+        "city": "New York",
+        "latitude":	40.689247,
+        "longitude": -74.044502
+    },
+    {
+        "name": "Central Park",
+        "city": "New York",
+        "latitude": 40.783603,
+        "longitude": -73.9670927
+    },
+    {
+        "name": "Empire State Building",
+        "city": "New York",
+        "latitude": 40.748465,
+        "longitude": -73.9878637
+    },
+    {
+        "name": "Brooklyn Bridge",
+        "city": "New York",
+        "latitude": 40.706134,
+        "longitude": -73.9990527
+    },
+    {
+        "name": "Times Square",
+        "city": "New York",
+        "latitude": 40.758944,
+        "longitude": -73.9872987
+    }
+]
